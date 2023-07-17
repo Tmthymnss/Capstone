@@ -68,6 +68,8 @@ body{
 
 #frontend-tools-holder, #other-tools-holder, #backend-tools-holder {
 	border-radius: 10px;
+	margin-bottom: 5rem;
+	margin-top: 5rem;
 }
 
 #form-col {
