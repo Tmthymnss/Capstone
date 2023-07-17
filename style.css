@@ -66,7 +66,7 @@ body{
 	border-radius: 25px;
 }
 
-#core-tools-holder, #other-tools-holder {
+#frontend-tools-holder, #other-tools-holder, #backend-tools-holder {
 	border-radius: 10px;
 }
 
@@ -112,20 +112,17 @@ body{
 	padding-top: 10px;
 }
 
-#project-row-1 {
-	padding-top: 15px;
-}
 
-#about-row-1 {
-	padding-top: 10rem;
+#about-row-1, #project-row-1 {
+	padding-top: 2rem;
 }
 
 #project-header-1 {
-	padding-top: 10rem;
+	padding-top: 2rem;
 }
 
 #contact-header-1 {
-	padding-top: 10rem;
+	padding-top: 2rem;
 }
 
 #btn-1 {
